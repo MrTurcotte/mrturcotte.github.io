@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Feb 2025 23:52:11 -0500</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Idea Writer Two Privacy Policy</title>
+      <link>https://example.org/posts/idea-writer-two-privacy-policy/</link>
+      <pubDate>Tue, 11 Feb 2025 23:52:11 -0500</pubDate>
+      <guid>https://example.org/posts/idea-writer-two-privacy-policy/</guid>
+      <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Effective Date:&lt;/strong&gt; 2025-02-11&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Idea Writer Two&lt;/strong&gt; (&amp;ldquo;the App&amp;rdquo;) is a free, offline note-taking application designed to provide users with a distraction-free writing experience. Your privacy is important to us, and we are committed to transparency.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-information-we-collect&#34;&gt;1. Information We Collect&lt;/h2&gt;&#xA;&lt;p&gt;We do &lt;strong&gt;not&lt;/strong&gt; collect, store, or process any personal data. All notes and information you enter into the App remain on your device and are never transmitted, shared, or accessed by us or any third parties.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
